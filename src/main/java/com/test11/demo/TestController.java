@@ -9,6 +9,6 @@ public class TestController {
     @RequestMapping("/")
     public String index() {
         String json = "{\"name\":\"1231\",\"age\":123141}";
-        return "nihe";
+        return "niheee";
     }
 }
